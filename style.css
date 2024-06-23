@@ -4,6 +4,10 @@
     
 }
 
+html {
+    height: fit-content;
+}
+
 body {
     background-color:hsl(217, 28%, 15%);
     font-size: 14px;
